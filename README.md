@@ -1,1 +1,1 @@
-Seraphex is a web application that links the farmer to the market
+Seraphex is a web application that links the farmer to the market.
